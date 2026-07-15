@@ -6,7 +6,7 @@ form.addEventListener("submit", function(event){
     event.preventDefault();
 
 
-    // Merr të dhënat nga formulari
+    
 
     let name = document.getElementById("name").value;
 
@@ -20,8 +20,7 @@ form.addEventListener("submit", function(event){
 
 
 
-    // Vendose numrin tënd këtu
-    // pa + dhe pa hapësira
+    
 
     let myNumber = "38348190423";
 
